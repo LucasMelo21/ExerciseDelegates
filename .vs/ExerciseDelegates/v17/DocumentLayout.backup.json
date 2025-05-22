@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas Melo\\source\\repos\\ExerciseDelegates\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1C79F2-C040-4291-9260-B46DD3414761}|ExerciseDelegates\\ExerciseDelegates.csproj|c:\\users\\lucas melo\\source\\repos\\exercisedelegates\\exercisedelegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1C79F2-C040-4291-9260-B46DD3414761}|ExerciseDelegates\\ExerciseDelegates.csproj|solutionrelative:exercisedelegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E1C79F2-C040-4291-9260-B46DD3414761}|ExerciseDelegates\\ExerciseDelegates.csproj|c:\\users\\lucas melo\\source\\repos\\exercisedelegates\\exercisedelegates\\entities\\emplooye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E1C79F2-C040-4291-9260-B46DD3414761}|ExerciseDelegates\\ExerciseDelegates.csproj|solutionrelative:exercisedelegates\\entities\\emplooye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Emplooye.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Melo\\source\\repos\\ExerciseDelegates\\ExerciseDelegates\\Entities\\Emplooye.cs",
+              "RelativeDocumentMoniker": "ExerciseDelegates\\Entities\\Emplooye.cs",
+              "ToolTip": "C:\\Users\\Lucas Melo\\source\\repos\\ExerciseDelegates\\ExerciseDelegates\\Entities\\Emplooye.cs",
+              "RelativeToolTip": "ExerciseDelegates\\Entities\\Emplooye.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T13:31:28.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Melo\\source\\repos\\ExerciseDelegates\\ExerciseDelegates\\Program.cs",
+              "RelativeDocumentMoniker": "ExerciseDelegates\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas Melo\\source\\repos\\ExerciseDelegates\\ExerciseDelegates\\Program.cs*",
+              "RelativeToolTip": "ExerciseDelegates\\Program.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T13:28:35.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
