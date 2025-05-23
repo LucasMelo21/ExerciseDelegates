@@ -12,3 +12,4 @@ C:\Users\Lucas Melo\source\repos\ExerciseDelegates\ExerciseDelegates\obj\Debug\n
 C:\Users\Lucas Melo\source\repos\ExerciseDelegates\ExerciseDelegates\obj\Debug\net8.0\ExerciseDelegates.pdb
 C:\Users\Lucas Melo\source\repos\ExerciseDelegates\ExerciseDelegates\obj\Debug\net8.0\ExerciseDelegates.genruntimeconfig.cache
 C:\Users\Lucas Melo\source\repos\ExerciseDelegates\ExerciseDelegates\obj\Debug\net8.0\ref\ExerciseDelegates.dll
+C:\Users\Lucas Melo\source\repos\ExerciseDelegates\ExerciseDelegates\obj\Debug\net8.0\ExerciseDelegates.sourcelink.json

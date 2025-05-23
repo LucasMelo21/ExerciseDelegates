@@ -10,5 +10,8 @@
             Author = author;
             Price = price;
         }
+        public override string ToString() {
+            return Title + " - " + Author + " - R$" + Price.ToString("F2"); 
+        }
     }
 }
